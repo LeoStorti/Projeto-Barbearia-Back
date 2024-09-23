@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIBarbearia", "APIBarbearia.csproj", "{533E8E8E-4643-4C42-9EDE-FDFEA58D84CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533E8E8E-4643-4C42-9EDE-FDFEA58D84CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533E8E8E-4643-4C42-9EDE-FDFEA58D84CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533E8E8E-4643-4C42-9EDE-FDFEA58D84CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533E8E8E-4643-4C42-9EDE-FDFEA58D84CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40B6CE6-3FE2-43A2-9519-FF488D3263C2}
+	EndGlobalSection
+EndGlobal
